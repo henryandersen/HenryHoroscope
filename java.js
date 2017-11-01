@@ -285,3 +285,4 @@ function getZodiac(c){
 function specialMessage(){
     return "Today you will die :(";
 }
+//end
